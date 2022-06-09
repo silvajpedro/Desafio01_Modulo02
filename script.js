@@ -3,9 +3,9 @@ let num1 ="31"
 let anoAtual = 2022
 let quartaFeira = true
 
- anoAtual = anoAtual - num1
+ resultado = anoAtual - num1
 
-console.log(anoAtual)
+console.log(resultado)
 
 console.log("Estou mexendo no console.log")
 
